@@ -1,0 +1,6 @@
+*.svn-base
+.DS_Store
+.svn/entries
+bin/.svn/entries
+*.svn/
+*.class
